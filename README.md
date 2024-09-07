@@ -1,4 +1,4 @@
-# [Ver Web](ttps://suleidis9510.github.io/Desafio-LocalStorage/)
+# [Ver Web](https://suleidis9510.github.io/Desafio-LocalStorage/)
 
 ## Muestra en el otro HTML!
 
