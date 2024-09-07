@@ -1,4 +1,6 @@
-# Muestra en el otro HTML!
+# [Ver Web](ttps://suleidis9510.github.io/Desafio-LocalStorage/)
+
+## Muestra en el otro HTML!
 
 Escribe el código necesario en _js/index.js_ y en _js/data.js_ para que en _index.html_ se pueda ingresar un dato al localStorage y el mismo se pueda visualizar al abrir _data.html_ (el mismo debe verse en la página, sin usar alerts).
 
